@@ -113,7 +113,6 @@ def gallons_input():
             else:
                 if gallons_used > 0:
                     # Create conversion to save as a string
-                    # Create for loop to put in correct spot
                     trip.append(gallons_used)
                     break
 
